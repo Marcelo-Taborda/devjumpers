@@ -95,7 +95,7 @@ git commit -m "Edicion del archivo 1.txt"
 git checkout v0.2
 ```
 ```
-echi Adios > 1.txt
+echo Adios > 1.txt
 ```
 
 - Realizamos un commit de los cambios realizados y nos posicionamos en la rama principal.
